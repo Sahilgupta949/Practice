@@ -10,4 +10,8 @@ print(A)
 message = f"{name} is {Age} years old."
 print(message)
 
-# This will print message
+Work = "Data Engineer"
+
+
+message_New = f"{name} is Occupation is {Work} "
+print(message_New)
